@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAM Test v2", "BAM Test v2\BAM Test v2.csproj", "{CC31F4A6-563D-4BE0-8D42-0B215A5376E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC31F4A6-563D-4BE0-8D42-0B215A5376E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC31F4A6-563D-4BE0-8D42-0B215A5376E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC31F4A6-563D-4BE0-8D42-0B215A5376E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC31F4A6-563D-4BE0-8D42-0B215A5376E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC31F4A6-563D-4BE0-8D42-0B215A5376E9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C236D71-1136-428A-A18D-B0FE24006476}
+	EndGlobalSection
+EndGlobal
